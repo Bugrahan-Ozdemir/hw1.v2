@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw1</string>
+    <array name="beerType">
+        <item>Carlsberg</item>
+        <item>Heineken</item>
+        <item>Bud</item>
+        <item>Budweiser</item>
+    </array>
+</resources>
